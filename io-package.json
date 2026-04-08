@@ -1,6 +1,6 @@
 {
   "common": {
-    "name": "iobroker-shiftcalendar",
+    "name": "shiftcalendar",
     "version": "1.0.0",
     "news": {
       "1.0.0": {
