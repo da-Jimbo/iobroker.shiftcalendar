@@ -4,12 +4,8 @@
     "version": "1.1.0",
     "news": {
       "1.1.0": {
-        "de": "21-Tage-Modell, Urlaubsverwaltung im Admin, exaktes Cron-Scheduling",
-        "en": "21-day model, vacation management in admin, exact cron scheduling"
-      },
-      "1.0.0": {
-        "de": "Erstveroeffentlichung",
-        "en": "Initial release"
+        "de": "21-Tage-Modell, Urlaubsverwaltung, exaktes Cron-Scheduling",
+        "en": "21-day model, vacation management, exact cron scheduling"
       }
     },
     "title": "Schichtplan",
@@ -18,8 +14,8 @@
       "en": "Shift Plan"
     },
     "desc": {
-      "de": "Flexibler Schichtkalender: 21-Tage-Modell, benutzerdefinierte Muster, Urlaubsverwaltung, Countdown, Wochenuebersicht",
-      "en": "Flexible shift calendar: 21-day model, custom patterns, vacation management, countdown, weekly overview"
+      "de": "Flexibler Schichtkalender mit 21-Tage-Modell, benutzerdefinierten Mustern und Urlaubsverwaltung",
+      "en": "Flexible shift calendar with 21-day model, custom patterns and vacation management"
     },
     "authors": [
       "Dein Name <deine@email.de>"
@@ -28,7 +24,6 @@
     "platform": "Javascript/Node.js",
     "mode": "daemon",
     "main": "main.js",
-    "readme": "README.md",
     "icon": "admin/schichtplan.png",
     "extIcon": "admin/schichtplan.png",
     "type": "general",
@@ -38,7 +33,7 @@
     "adminUI": {
       "config": "json"
     },
-    "keywords": ["schicht", "kalender", "schichtplan", "urlaub", "arbeitszeit", "nachtschicht"]
+    "keywords": ["schicht", "schichtplan", "shiftcalendar", "urlaub", "arbeitszeit"]
   },
   "native": {
     "preset": "3schicht_21",
