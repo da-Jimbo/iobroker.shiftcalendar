@@ -7,8 +7,7 @@ Flexibler Schichtkalender-Adapter für ioBroker mit Unterstützung für diverse 
 ## Installation
 
 ```bash
-cd /opt/iobroker
-npm install iobroker.schichtplan
+https://github.com/da-Jimbo/ioBroker.shiftcalendar
 iobroker add schichtplan
 ```
 
