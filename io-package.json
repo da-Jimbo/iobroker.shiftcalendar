@@ -1,5 +1,6 @@
 {
   "common": {
+    "enabled": true,
     "name": "shiftcalendar",
     "version": "1.0.0",
     "news": {
