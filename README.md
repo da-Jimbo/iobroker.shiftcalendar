@@ -176,17 +176,6 @@ Der Adapter arbeitet ereignisbasiert:
 
 ---
 
-## 🔐 Telemetrie (optional)
-
-Der Adapter enthält eine **DSGVO-konforme, optionale Telemetrie**:
-
-* ❌ Standard: deaktiviert
-* ✅ Aktivierung nur per Opt-in
-* 📊 Es werden ausschließlich **anonyme technische Daten** übertragen
-* 🚫 Keine personenbezogenen Daten
-
----
-
 ## 📄 Lizenz
 
 MIT License
