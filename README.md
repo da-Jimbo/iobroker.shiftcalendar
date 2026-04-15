@@ -82,7 +82,7 @@ Zusätzlich definierst du die Schichten:
 
 | Modell         | Pattern                | Beschreibung                            |
 | -------------- | ---------------------- | --------------------------------------- |
-| 3-Schicht      | `FFFFFXNNNNXXXSSSSSXX` | Klassischer 8-Tage-Rhythmus             |
+| 3-Schicht      | `FFFFFXNNNNXXXSSSSSXX` | Klassischer 7-Tage-Rhythmus             |
 | 2-Schicht      | `FFFFFXXSSSSSXX`       | Früh-/Spätschicht mit freien Tagen      |
 | 4-Schicht      | `FSNX`                 | Kontinuierlicher Betrieb                |
 | Wechselschicht | `FSFSFXXSFSFSXX`       | Wechsel zwischen Früh- und Spätschicht  |
