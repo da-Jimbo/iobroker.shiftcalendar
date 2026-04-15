@@ -80,12 +80,12 @@ Zusätzlich definierst du die Schichten:
 
 ## 🧩 Preset-Schichtmodelle
 
-| Modell         | Pattern    | Beschreibung                            |
-| -------------- | ---------- | --------------------------------------- |
-| 3-Schicht      | `FFSSNNXX` | Klassischer 8-Tage-Rhythmus             |
-| 2-Schicht      | `FFSSXX`   | Früh-/Spätschicht mit freien Tagen      |
-| 4-Schicht      | `FSNX`     | Kontinuierlicher Betrieb                |
-| Wechselschicht | `FNXX`     | Wechsel zwischen Früh- und Nachtschicht |
+| Modell         | Pattern                | Beschreibung                            |
+| -------------- | ---------------------- | --------------------------------------- |
+| 3-Schicht      | `FFFFFXNNNNXXXSSSSSXX` | Klassischer 8-Tage-Rhythmus             |
+| 2-Schicht      | `FFFFFXXSSSSSXX`       | Früh-/Spätschicht mit freien Tagen      |
+| 4-Schicht      | `FSNX`                 | Kontinuierlicher Betrieb                |
+| Wechselschicht | `FSFSFXXSFSFSXX`       | Wechsel zwischen Früh- und Spätschicht  |
 
 👉 Alle Modelle basieren auf Pattern-Wiederholung und sind frei anpassbar.
 
